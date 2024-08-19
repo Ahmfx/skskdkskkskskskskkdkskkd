@@ -141,8 +141,7 @@ def gen_user(choice):
             j = random.choices(pp)
             r = random.choices(b)
 
-f = [c[0], ss[0], j[0], r[0], r[0], r[0]]
-            
+f = [c[0], ss[0], j[0], r[0], r[0], r[0]         
             username = ''.join(f)
         else:
             pass
