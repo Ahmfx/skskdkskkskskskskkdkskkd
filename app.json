@@ -12,27 +12,27 @@
     "website": "https://github.com/hsiehdhhehe/hddjurfbju",
     "env": {
         "APP_ID": {
-            "description": "ايبي ايدي",
+            "description": "25635928",
             "value": "",
             "required": true
         },
         "APP_HASH": {
-            "description": "ايبي هاش",
+            "description": "6e49a338bcf4c3406afdb0ce9a2892e1",
             "value": "",
             "required": true
         },
         "TERMUX": {
-            "description": "كود تيرمكس",
+            "description": "1BJWap1sBu3SuUBASUs3kxyV7fXxt_MzuL3S6peX9jT5SBg7AWjaa5-976VlWLTjr0tqMbdOH-Nm-Qbk3a9to1KfAdI7KgVjODTEeZWx1XaGciVJdiiqbs1jdj6f5fSH9JgyLi_w9w63NNBCkrzvQZ7RlmHEncssxw5BYrfH72ILBdMuxaCbaSYFAjTDdvDks0MqVuJc9RxbUZFAIfc15MyrRZFOXvjqHsEK9zlH4mdifaeFNpIEG_UGpy0EwhnvjWrfT5q_nhtxwU9hA5XnHqy34atxelL5T5yPXNh8ZKqYC_6S7pydaLaTN-DlVMuvKsOaYN4O_hf_WLfSpIV-ildr15Gm6Fw0=",
             "value": "",
             "required": true
         },
         "TOKEN": {
-            "description": "توكن البوت",
+            "description": "7328640668:AAFNuhi3XUAVhR3_NhyQD3sziURpOmI0b44",
             "value": "",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "يوزر البوت بدون ـ@ـ",
+            "description": "bbbbbbvndbot",
             "value": "",
             "required": true
         }
